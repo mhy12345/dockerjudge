@@ -1,1 +1,1 @@
-python judge.py
+python /judge/judge.py
