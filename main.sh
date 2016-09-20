@@ -1,1 +1,0 @@
-python /judge/judge.py
